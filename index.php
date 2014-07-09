@@ -12,7 +12,7 @@
 				Please enter a day of the week:<br/>
 				<input type="text" name="day" autocomplete="off"/>
 
-				<!-- Use can even use select field like follows: -->
+				<!-- You can even use select field like follows: -->
 				<!-- 
 				 <select name="day">
 				   <option value="Monday">Monday</option>
